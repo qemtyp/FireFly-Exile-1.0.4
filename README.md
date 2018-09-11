@@ -1,5 +1,4 @@
 # FireFly (ExileZ Realism Survival 1.0.4)
-================  
 FireFly - Это российский сервер с упором на хардкор. Сервер приватный (Временно)!
 
 Автор сборки: [TheFirstNoob](https://vk.com/thefirstnoob)
